@@ -1,2 +1,4 @@
 # moocpythondjango
-Desenvolvimento web com Python e framework Django.
+Nome do curso: Desenvolvimento web com Python e framework Django.
+
+Descrição: Django é um framework web baseado na linguagem Python que permite o desenvolvimento rápido de aplicações seguras e de fácil manutenção. Seguindo a filosofia de “baterias incluídas”, o Django cuida de grande parte do trabalho de desenvolvimento web para que o desenvolvedor possa se concentrar em escrever seu aplicativo sem precisar reinventar a roda. É gratuito e de código aberto, tem uma comunidade próspera e ativa, ótima documentação e muitas opções de suporte gratuito e pago. Com ele é possível desenvolver aplicações completas, versáteis, seguras, escaláveis e portáteis. O objetivo deste curso é introduzir os participantes no desenvolvimento de aplicações web com o framework Django, fornecendo uma visão geral do seu funcionamento, descrevendo os seus principais recursos e as principais vantagens da sua utilização. 
