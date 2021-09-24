@@ -16,10 +16,11 @@ Including another URLconf
 from django.conf.urls import include, re_path
 from django.contrib import admin
 from django.urls import path
-from academico.comum import views as comum_views
 
 urlpatterns = [
-    path('', comum_views.home),
-    path('admin/', admin.site.urls)
+    path('admin/', admin.site.urls),
+    path('', include('comum.urls')),
+    path('', include('edu.urls')),
 ]
+#path('', comum_views.home),
 #     re_path(r'^admin/', include('admin.site.urls', 'admin'), namespace='admin'),
